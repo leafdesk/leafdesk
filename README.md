@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**lsg001008/lsg001008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leafdesk/leafdesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sanggeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsg001008&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanggeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafdesk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
