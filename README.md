@@ -49,13 +49,13 @@ Here are some ideas to get you started:
   -->
   
   <br /><br />
-    
+  <!--  
   [![GitHub Streak](https://streak-stats.demolab.com?user=leafdesk)](https://git.io/streak-stats)
-  
+  -->
   <!--
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leafdesk)](https://github.com/anuraghazra/github-readme-stats)
   -->
-  
+  <!--
   [![leafdesk's GitHub stats](https://github-readme-stats.vercel.app/api?username=leafdesk&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-  
+  -->
 </div>
